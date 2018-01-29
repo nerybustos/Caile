@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>168444252170-8gcgoiti2h67d8g3mu0gl1mq5p55ejv3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168444252170-8gcgoiti2h67d8g3mu0gl1mq5p55ejv3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvlPKHD5-TZx55cJnrEA0eULlOTsEFhPc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168444252170</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.com.nery.apps.caile.Caile</string>
+	<key>PROJECT_ID</key>
+	<string>caile-9d6ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>caile-9d6ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168444252170:ios:1ff5e09bbd764acc</string>
+	<key>DATABASE_URL</key>
+	<string>https://caile-9d6ba.firebaseio.com</string>
+</dict>
+</plist>
