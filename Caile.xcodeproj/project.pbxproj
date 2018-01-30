@@ -22,8 +22,6 @@
 		C523D4691FACFC5700BB015E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C523D4681FACFC5700BB015E /* Assets.xcassets */; };
 		C526848A1FB0C56700091A7D /* ViewControllerCrearCuenta.swift in Sources */ = {isa = PBXBuildFile; fileRef = C52684891FB0C56700091A7D /* ViewControllerCrearCuenta.swift */; };
 		C52FBD351FFBF65B0088AA38 /* GooglePlaceResena.swift in Sources */ = {isa = PBXBuildFile; fileRef = C52FBD341FFBF65B0088AA38 /* GooglePlaceResena.swift */; };
-		C53148121FF5634500FCF7FE /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53148101FF5634500FCF7FE /* ContainerViewController.swift */; };
-		C53148131FF5634500FCF7FE /* EmptySegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53148111FF5634500FCF7FE /* EmptySegue.swift */; };
 		C53148151FF57BE000FCF7FE /* ViewControllerInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53148141FF57BE000FCF7FE /* ViewControllerInfo.swift */; };
 		C53148171FF57C2E00FCF7FE /* ViewControllerResenas.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53148161FF57C2E00FCF7FE /* ViewControllerResenas.swift */; };
 		C53148191FF57C8000FCF7FE /* ViewControllerFotos.swift in Sources */ = {isa = PBXBuildFile; fileRef = C53148181FF57C8000FCF7FE /* ViewControllerFotos.swift */; };
@@ -57,6 +55,8 @@
 		C5B5AE9E1FA3BB4400ED2C82 /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5B5AE9A1FA3BB3400ED2C82 /* Ubuntu-Medium.ttf */; };
 		C5B5AE9F1FA3BB4400ED2C82 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5B5AE9B1FA3BB3400ED2C82 /* Ubuntu-Regular.ttf */; };
 		C5B954AB1FF6D59C005C71DA /* TableViewCellHorarios.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5B954AA1FF6D59C005C71DA /* TableViewCellHorarios.swift */; };
+		C5D1DB3F2020F6A200AD3663 /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D1DB3D2020F6A200AD3663 /* ContainerViewController.swift */; };
+		C5D1DB402020F6A200AD3663 /* EmptySegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D1DB3E2020F6A200AD3663 /* EmptySegue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -76,8 +76,6 @@
 		C523D4681FACFC5700BB015E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C52684891FB0C56700091A7D /* ViewControllerCrearCuenta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerCrearCuenta.swift; sourceTree = "<group>"; };
 		C52FBD341FFBF65B0088AA38 /* GooglePlaceResena.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GooglePlaceResena.swift; sourceTree = "<group>"; };
-		C53148101FF5634500FCF7FE /* ContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContainerViewController.swift; path = "../../../../Downloads/ContainerView-master/Container View/ContainerViewController.swift"; sourceTree = "<group>"; };
-		C53148111FF5634500FCF7FE /* EmptySegue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = EmptySegue.swift; path = "../../../../Downloads/ContainerView-master/Container View/EmptySegue.swift"; sourceTree = "<group>"; };
 		C53148141FF57BE000FCF7FE /* ViewControllerInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerInfo.swift; sourceTree = "<group>"; };
 		C53148161FF57C2E00FCF7FE /* ViewControllerResenas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerResenas.swift; sourceTree = "<group>"; };
 		C53148181FF57C8000FCF7FE /* ViewControllerFotos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFotos.swift; sourceTree = "<group>"; };
@@ -114,6 +112,8 @@
 		C5B5AE9A1FA3BB3400ED2C82 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
 		C5B5AE9B1FA3BB3400ED2C82 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
 		C5B954AA1FF6D59C005C71DA /* TableViewCellHorarios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCellHorarios.swift; sourceTree = "<group>"; };
+		C5D1DB3D2020F6A200AD3663 /* ContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
+		C5D1DB3E2020F6A200AD3663 /* EmptySegue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmptySegue.swift; sourceTree = "<group>"; };
 		C754E4A1821B46986F6CE3A3 /* Pods-Caile.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Caile.release.xcconfig"; path = "Pods/Target Support Files/Pods-Caile/Pods-Caile.release.xcconfig"; sourceTree = "<group>"; };
 		D5AC68FA0A69942678EB5B37 /* Pods-Caile.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Caile.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Caile/Pods-Caile.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -219,8 +219,8 @@
 		C531480F1FF5632B00FCF7FE /* Container */ = {
 			isa = PBXGroup;
 			children = (
-				C53148101FF5634500FCF7FE /* ContainerViewController.swift */,
-				C53148111FF5634500FCF7FE /* EmptySegue.swift */,
+				C5D1DB3D2020F6A200AD3663 /* ContainerViewController.swift */,
+				C5D1DB3E2020F6A200AD3663 /* EmptySegue.swift */,
 			);
 			name = Container;
 			sourceTree = "<group>";
@@ -492,8 +492,8 @@
 			files = (
 				C50F877A1FEF0D190065681F /* ViewControllerLugares.swift in Sources */,
 				C50F87801FEF116F0065681F /* ObjetoMenu.swift in Sources */,
-				C53148121FF5634500FCF7FE /* ContainerViewController.swift in Sources */,
 				C5391B741FF4536D00801BC7 /* Pin.swift in Sources */,
+				C5D1DB402020F6A200AD3663 /* EmptySegue.swift in Sources */,
 				C5391B721FF44BCE00801BC7 /* ViewControllerDetalle.swift in Sources */,
 				C531481B1FF5A14F00FCF7FE /* GooglePlaceDetail.swift in Sources */,
 				C5B954AB1FF6D59C005C71DA /* TableViewCellHorarios.swift in Sources */,
@@ -517,9 +517,9 @@
 				C53148171FF57C2E00FCF7FE /* ViewControllerResenas.swift in Sources */,
 				C5391B701FF3F83500801BC7 /* DescargaImagenReferencia.swift in Sources */,
 				C5507C331FFBFFF6001E607C /* TableViewCellResena.swift in Sources */,
-				C53148131FF5634500FCF7FE /* EmptySegue.swift in Sources */,
 				C53148151FF57BE000FCF7FE /* ViewControllerInfo.swift in Sources */,
 				C51CA579200EB08A00E49CE2 /* ViewControllerCaile.swift in Sources */,
+				C5D1DB3F2020F6A200AD3663 /* ContainerViewController.swift in Sources */,
 				C50F877D1FEF0EFB0065681F /* TableViewCellMenu.swift in Sources */,
 				C50F87841FEF3BA50065681F /* DescargaFotoUsuario.swift in Sources */,
 				C53148201FF5B57000FCF7FE /* StringExtension.swift in Sources */,
